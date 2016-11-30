@@ -1,23 +1,10 @@
 # 6714RE
 Relation Extraction project
 
-This project for COMP6714 Information Retrieval & Web Search involved analysing various segments of text to extract textual relations by analysing grammatical rules.
+This project for COMP6714 Information Retrieval & Web Search involved analysing various segments of text to extract textual relations by analysing grammatical rules. 
 Relations are usually represented as triplets of (subject, predicate, object). For example,
-
 ("Henry Hansen", DateOfBirth, "April 28,1907")
 
-("Henry Hansen", PlaceOfBirth, "La Crosse")
-
-("Henry Hansen", PlaceOfBirth, "Wisconsin")
-
-("Henry Hansen", HasParent, "Andrew")
-
-("Henry Hansen", HasParent, "Emma Petersen Hansen")
-
-
 Goal of this task:
-In this project, you will build a relation extractor to extract specific relations from a
-given corpus. You need to implement a program in Python 3 that extracts two specific relations from
-an input file consisting of sentences and NER results. The two relations are : DateOfBirth,
-and HasParent.
+In this project, I was tasked to analyse text segments for DateofBirth and HasParent relations. The task was primarily accomplished by using a refined regular expression statement inside python to analyse the text data.
 
