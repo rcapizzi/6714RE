@@ -1,17 +1,6 @@
 # -*- coding: utf-8 -*-
 
 # Relation Extraction Skeleton
-# ==========================================
-#
-# Author: Jianbin Qin <jqin@cse.unsw.edu.au>
-
-# THIS IS PART OF SKELETON
-# DO NOT CHANGE THIS FILE
-
-
-# The main file of running the relation extraction.
-# To run it:
-# python3 run.py training.json
 
 import argparse
 import os
