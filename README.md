@@ -1,7 +1,7 @@
 # 6714RE
 Relation Extraction project
 
-This project involved analysing various segments of text to extract textual relations by analysing grammatical rules.
+This project for COMP6714 Information Retrieval & Web Search involved analysing various segments of text to extract textual relations by analysing grammatical rules.
 Relations are usually represented as triplets of (subject, predicate, object). For example,
 
 ("Henry Hansen", DateOfBirth, "April 28,1907")
