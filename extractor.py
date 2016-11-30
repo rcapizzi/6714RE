@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 
 # Relation Extraction Skeleton
-# ==========================================
-#
-# Author: Jianbin Qin <jqin@cse.unsw.edu.au>
-
 from relation import Relation
 import re
 
